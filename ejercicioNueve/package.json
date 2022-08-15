@@ -1,0 +1,11 @@
+{
+  "name": "ejerciconueve",
+  "version": "1.0.0",
+  "description": "\"hola\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
