@@ -1,0 +1,19 @@
+body{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+.seccion{
+    background-color: saddlebrown;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.parrafo{
+    background-color: white;
+    padding: 1rem;
+}
+.parrafo.dragging{
+    opacity: 0.3;
+}
